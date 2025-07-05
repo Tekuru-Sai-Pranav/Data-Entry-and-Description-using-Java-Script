@@ -1,6 +1,6 @@
 # Data Entry and Deletion using JavaScript
 
-This is a simple web application that allows users to enter and delete data dynamically. It is built using **HTML**, **CSS**, and **vanilla JavaScript**, without any frameworks or libraries.
+This is a simple web application that allows users to enter and delete data dynamically. It is built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
